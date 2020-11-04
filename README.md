@@ -1,5 +1,5 @@
 # Ecommerce
-    ![alt text](images/commerce.png)
+![Ecommerce](images/commerce.png)
 
 
 # E-commerce Demo
