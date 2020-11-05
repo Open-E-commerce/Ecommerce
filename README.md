@@ -11,15 +11,11 @@ add them to their shopping cart
 # Motivated by the goal to:
 build an open source e-commerce platform that developer entrepreneurs can clone and modify to satisfy their needs.
 
-## Getting Started
-To get started  you can simply clone this `Ecommerce` repository and install the dependencies.
+## WHY BECOME A CONTRIBUTOR
+* Build relationships with other developers who are facing or have faced the same problems you are facing in your codding journey
+* Understand how  open source works. Learn this by doing.
+* Get experienced in building an end-to-end project
 
-Clone the `Ecommerce` repository using git:
-
-```bash
-git clone https://github.com/PatrickAttankurugu/Ecommerce
-cd Ecommerce
-```
 
 ## TECH STACK
 * Django
@@ -35,7 +31,7 @@ cd Ecommerce
  ### DAY 2-3: CSS
  ### DAY 4-7: Bootstrap
 
-## WEEK TWO LEANING SCHEDULE (14th November-20th November)
+## WEEK TWO LEARNING SCHEDULE (14th November-20th November)
 ### Introduction to JavaScript
 
 
